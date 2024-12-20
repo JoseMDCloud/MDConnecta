@@ -1,0 +1,26 @@
+#divContenedor{
+    text-align: center;
+    align-items: center;
+}
+#divEmpresas{
+    margin-top: 20px;
+    margin-left: 50px;
+    padding: 10px;
+    width: 100%;
+    height:45%;
+    display: flex;
+    justify-content: space-around; 
+
+/*
+    border: 1px solid black;
+    border-radius: 10px;*/
+}
+
+#botonEmpresa {
+    height: 55px;
+    font-size: 19px;
+}
+
+#botonEmpresa:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+}
